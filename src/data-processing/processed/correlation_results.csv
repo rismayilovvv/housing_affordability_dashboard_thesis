@@ -1,0 +1,4 @@
+hypothesis,relationship,x_variable,y_variable,pearson_correlation,strength,observations
+H1,Housing Price Index and Mortgage Rate,housing_price_index,mortgage_rate,-0.13,very weak,482
+H2,Housing Price Index and Income,housing_price_index,income,-0.18,very weak,376
+H3,Housing Price Index and Unemployment,housing_price_index,unemployment,-0.38,weak,413

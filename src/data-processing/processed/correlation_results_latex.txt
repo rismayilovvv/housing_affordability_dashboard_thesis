@@ -1,0 +1,14 @@
+\begin{table}[H]
+    \centering
+    \begin{tabular}{l l r r}
+        \toprule
+        \textbf{Hypothesis} & \textbf{Relationship} & \textbf{Pearson coefficient} & \textbf{Observations} \\
+        \midrule
+        H1 & Housing Price Index and Mortgage Rate & -0.13 & 482 \\
+        H2 & Housing Price Index and Income & -0.18 & 376 \\
+        H3 & Housing Price Index and Unemployment & -0.38 & 413 \\
+        \bottomrule
+    \end{tabular}
+    \caption{Pearson correlation coefficients for the selected housing affordability indicators.}
+    \label{tab:pearson_correlations}
+\end{table}
